@@ -18,9 +18,9 @@ It does not make any changes to your Amazon account. It reads numbers and gives 
 
 ```yaml
 # Your per-unit economics — used to calculate break-even ACoS.
-retail_price: $28.00          # what one unit sells for on Amazon
-unit_cost: $8.00              # cost of goods per unit (manufacturing + inbound freight)
-fba_fees: $6.00               # Amazon referral + FBA fulfilment fees per unit
+retail_price: 28.00          # what one unit sells for on Amazon (your currency)
+unit_cost: 8.00              # cost of goods per unit (manufacturing + inbound freight)
+fba_fees: 6.00               # Amazon referral + FBA fulfilment fees per unit
 # If you don't know these precisely, estimate. The break-even ACoS will be
 # approximate but the health rating is still useful.
 
@@ -100,7 +100,7 @@ Produce a short, clear report:
 | ROAS | X |
 | CTR | X% |
 | CVR | X% |
-| Avg CPC | $X / £X |
+| Avg CPC | X.XX (your currency) |
 
 ## Health rating
 [🟢 Healthy / 🟡 Watch / 🔴 Bleeding] — one sentence on why.
