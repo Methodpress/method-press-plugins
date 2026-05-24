@@ -1,0 +1,21 @@
+{
+  "name": "method-press",
+  "owner": {
+    "name": "David Hart",
+    "url": "https://methodpress.ai"
+  },
+  "metadata": {
+    "description": "Free Amazon-seller tools from Method Press. Diagnostics and helpers that pair with the Amazon Brand Launch Bundle.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "method-press-acos-health-check",
+      "description": "A free Amazon Sponsored Products PPC diagnostic. Computes ACoS, break-even ACoS, ROAS, CTR, CVR, and CPC, then walks a five-cause diagnostic to tell you which lever is actually the problem — targeting, bid, price, reviews, or the listing. Dual-mode (Amazon Ads MCP or paste-in). Read-only.",
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://methodpress.ai"
+    }
+  ]
+}
+
