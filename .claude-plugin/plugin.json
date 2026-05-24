@@ -1,0 +1,23 @@
+{
+  "name": "method-press-acos-health-check",
+  "displayName": "Amazon ACoS Health Check",
+  "version": "1.0.0",
+  "description": "A free Amazon Sponsored Products PPC diagnostic from Method Press. Calculates ACoS, break-even ACoS, ROAS, CTR, CVR, and CPC from a single snapshot, then walks a five-cause diagnostic to identify whether the real problem is targeting, bid, price, reviews, or the listing itself. Dual-mode: pulls numbers via the Amazon Ads MCP Server when connected, or accepts them pasted in. Read-only.",
+  "author": {
+    "name": "David Hart",
+    "url": "https://methodpress.ai"
+  },
+  "homepage": "https://methodpress.ai",
+  "license": "LicenseRef-Method-Press-Free-Tool",
+  "keywords": [
+    "amazon",
+    "amazon-ppc",
+    "amazon-ads",
+    "acos",
+    "sponsored-products",
+    "amazon-seller",
+    "fba",
+    "ecommerce",
+    "ppc-diagnostic"
+  ]
+}
