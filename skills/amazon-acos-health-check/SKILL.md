@@ -1,6 +1,6 @@
 ---
 name: amazon-acos-health-check
-description: Diagnoses Amazon Sponsored Products PPC health from a single snapshot of numbers. Calculates ACoS, break-even ACoS, ROAS, CTR, CVR, and CPC, then walks a five-cause diagnostic to tell you which lever is actually the problem — targeting, bid, price, reviews, or the listing itself. Dual-mode: pulls the numbers via the Amazon Ads MCP Server when connected, or accepts them pasted in. Use whenever someone asks "why is my ACoS so high?" or wants a quick read on whether their Amazon PPC is healthy.
+description: 'Diagnoses Amazon Sponsored Products PPC health from a single snapshot of numbers. Calculates ACoS, break-even ACoS, ROAS, CTR, CVR, and CPC, then walks a five-cause diagnostic to tell you which lever is actually the problem — targeting, bid, price, reviews, or the listing itself. Dual-mode: pulls the numbers via the Amazon Ads MCP Server when connected, or accepts them pasted in. Use whenever someone asks "why is my ACoS so high?" or wants a quick read on whether their Amazon PPC is healthy.'
 ---
 
 # Amazon ACoS Health Check
