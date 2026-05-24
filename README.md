@@ -16,7 +16,7 @@ When ACoS is bad, the instinct is to lower bids. About half the time that's the 
 ## Install
 
 ```
-/plugin marketplace add <your-github-username>/<your-repo-name>
+/plugin marketplace add Methodpress/method-press-plugins
 /plugin install method-press-acos-health-check@method-press
 ```
 
